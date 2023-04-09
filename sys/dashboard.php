@@ -36,14 +36,14 @@
       <div class="card-counter warning">
         <i class="fa fa-user-circle-o"></i>
         <span class="count-numbers"><?php echo $sammac;?></span>
-        <span class="count-name">Farmers</span>
+        <span class="count-name">Petani</span>
       </div>
     </div>
  <div class="col-md-3">
       <div class="card-counter success">
         <i class="fa fa-info"></i>
         <span class="count-numbers"><?php echo $sammac1;?></span>
-        <span class="count-name">Pest Control Tips</span>
+        <span class="count-name">Logs Tips</span>
       </div>
     </div>
     <div class="col-md-3">
